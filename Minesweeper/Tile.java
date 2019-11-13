@@ -1,6 +1,9 @@
 import javax.swing.*;
 import java.awt.event.*;
-
+/**
+ * @author Ayu
+ * @website https://ayu.dev/
+ */
 public class Tile extends JButton {
 	
 	MinesweeperFrame frame;
